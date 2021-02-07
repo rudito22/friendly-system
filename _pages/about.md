@@ -4,8 +4,8 @@ title: About Me
 permalink: /about/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+**Welcome to the blog of me, Rudy Ramos!**
 
+Honestly I am just using this blog for whatever comes to mind. Media reviews, reflections on things I see in my life, weird stuff in general. 
 
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+So yeah.
