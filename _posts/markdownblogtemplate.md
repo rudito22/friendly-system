@@ -1,0 +1,20 @@
+---
+title: "Test Blog Post"
+description: "Test Description"
+layout: post
+toc: false
+comments: true
+image: https://vignette.wikia.nocookie.net/disney/images/7/7c/Hooty.png
+hide: false
+search_exclude: false
+categories: [markdown, test]
+metadata_key1: metadata_value1
+metadata_key2: metadata_value2
+---
+
+![look at the funny owl wow](https://vignette.wikia.nocookie.net/disney/images/7/7c/Hooty.png)
+<figcaption>
+
+Look at the funny owl hehe
+
+<figcaption>
