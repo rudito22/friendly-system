@@ -1,11 +1,22 @@
 {
   
+    
+        "post0": {
+            "title": "Test Blog Post",
+            "content": ". Look at the funny owl hehe",
+            "url": "https://rudito22.github.io/friendly-system/markdown/test/2020/02/06/test.html",
+            "relUrl": "/markdown/test/2020/02/06/test.html",
+            "date": " • Feb 6, 2020"
+        }
+        
+    
+  
 
   
   
 
   
-      "page1": {
+      ,"page1": {
           "title": "About Me",
           "content": "Welcome to the blog of me, Rudy Ramos! . Honestly I am just using this blog for whatever comes to mind. Media reviews, reflections on things I see in my life, weird stuff in general. . So yeah. .",
           "url": "https://rudito22.github.io/friendly-system/about/",
